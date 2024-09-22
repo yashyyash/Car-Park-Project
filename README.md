@@ -18,14 +18,4 @@ https://drive.google.com/file/d/15516p2SFxZ2AwJyXceO15mSh4cydj3V8/view?usp=drive
 or
 ![Video Output](https://github.com/yashyyash/Car-Park-Project/blob/main/VideoOutput/FinalOutput/demo.mp4?raw=true)
 
-*Note: Make sure to replace the placeholder video URL with the actual URL if necessary.*
 
-## Installation
-
-### Clone the Repository
-
-First, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yashyyash/Car-Park-Project.git
-cd Car-Park-Project
