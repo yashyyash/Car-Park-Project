@@ -11,11 +11,8 @@ The Car Parking Project is a real-time computer vision application that detects 
 - **Parking Space Monitoring**: Displays live updates on parking lot occupancy.
 - **Pathway Status**: Indicates if the pathway is free or occupied.
 
-## Video Output
+## Demonstration
 
-You can view a demonstration of the project in action here:
-https://drive.google.com/file/d/15516p2SFxZ2AwJyXceO15mSh4cydj3V8/view?usp=drive_link
-or
-![Video Output](https://github.com/yashyyash/Car-Park-Project/blob/main/VideoOutput/FinalOutput/demo.mp4?raw=true)
+You can view a demonstration of the project in action below:
 
-
+![Video Output](https://github.com/yashyyash/Car-Park-Project/blob/main/VideoOutput/Carpark.gif?raw=true)
